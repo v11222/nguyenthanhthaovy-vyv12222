@@ -1,7 +1,7 @@
 #vung1 {
     Background-color: blue;
     color: yellow;
-    height: 100px;
+    height: 50px;
     border: 5px solid green;
 }
 #vung2 {
@@ -13,10 +13,10 @@
 #vung3 {
     background-color: red;
     color: white;
-    height: 100px;
+    height: 50px;
     border: 5px solid scaled;
 }
 img {
     max-width: 100%;
-    height: 100;
+    height: 50;
 }
