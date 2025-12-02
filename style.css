@@ -1,9 +1,18 @@
 #vung1 {
     Background-color: blue;
+    color: yellow;
+    height: 20px;
+    border: 5px solid green;
 }
 #vung2 {
     background-color: yellow;
+    color: red;
+    height: 70px;
+    border: 5px solid blue;
 }
 #vung3 {
     background-color: red;
+    color: white;
+    height: 20px;
+    border: 5px solid scaled;
 }
