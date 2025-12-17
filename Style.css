@@ -1,0 +1,20 @@
+.topnav {
+  background-color: Black;
+  overflow: gray;
+}
+.topnav a {
+  float: left;
+  color: brown;
+  padding: 15px 18px;
+}
+.topnav a:hover {
+  background-color: red;
+}
+.content {
+  background-color: white;
+  padding: 80px 30px;
+}
+.footer {
+  background-color: black;
+  padding: 30px;
+}
